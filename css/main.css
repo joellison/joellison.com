@@ -1,0 +1,36 @@
+body{
+  padding-top: 30px;
+}
+
+.jumbotron {
+  background-image: url('../images/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px;
+}
+#profile {
+  margin: 0px 0px 0px 0px;
+  border: 7px solid black;
+  border-radius: 20px;
+  max-width:200px;
+}
+.dashboard{
+  max-width: 200px;
+  max-height: 200px;
+}
+.btn-instagram {
+ background: #b62f26;
+ border-color: #b62f26;
+ text-decoration-color: white
+}
+
+#mission {
+  background: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+}
+h1 {
+  color:white;
+}
+h2 {
+  color:white;
+}
