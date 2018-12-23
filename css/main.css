@@ -28,6 +28,10 @@ body{
   background: rgba(32, 35, 41, 0.9);
   color: #ddd;
 }
+
+#buzz {
+  padding-bottom: 20px
+}
 h1 {
   color:white;
 }
