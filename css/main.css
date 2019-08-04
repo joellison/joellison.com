@@ -38,3 +38,17 @@ h1 {
 h2 {
   color:white;
 }
+
+div.entry{
+  padding: 40px;
+  min-height: 530px;
+}
+img.portfolio {
+  max-height: : 400px;
+  position: absolute;
+  right: 0px;
+  padding: 0px;
+}
+h3{
+  text-align: center;
+}
